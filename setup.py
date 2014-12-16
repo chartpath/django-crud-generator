@@ -24,7 +24,7 @@ setup(
     package_data= {
         '':['*.html', '*.txt'],
     },
-    long_description=read('README',),
+    long_description=read('README.md',),
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Topic :: Utilities",
